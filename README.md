@@ -39,8 +39,4 @@ Contributions are welcome! If you have any ideas, bug fixes, or new features to 
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Acknowledgements
 
-Special thanks to the contributors and open-source projects that have inspired and provided valuable resources for this project.
-
-Feel free to customize the README.md file according to your project's specific details and requirements.
