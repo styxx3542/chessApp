@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/games
+Content-Type: application/json
+
+{
+    "ladder_id":1,
+    "player_1_id":8,
+    "player_2_id":5,
+    "result": 1
+} 
